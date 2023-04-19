@@ -15,6 +15,17 @@ Agradeço pela oportunidade de participar do teste da Empresa  e pela revisão d
 Atenciosamente,
 
 Lucas Gomes
+## Sobre o Código 
+
+O Código vai gerar uma terceira tabela intitulada 'dados_analisados.csv' onde apartir dela daremos inicio para a analise e implementação da IA, também sera gerado um Heatmap e um grafico mostrando a diferença entre os dois modelos preditivo, onde:
+
+Linha azul: Respresenta os dados reais de teste.
+Linha tracejada laranja: Caracteriza os dados de previsão calculados pelo modelo de Random Forest.
+Linha verde: Contempla os dados de predição do modelo de Regressão Linear.
+
+Após analise o próprio código cria duas lista com os clientes com provavel compra e outra com clientes que provavelmente não compraram 
+
+    
 ## 🚀 Sobre mim:
 ## Olá eu sou o Lucas Gomes <br>🔭 Atualmente estou trabalhando como back-end em Python <br>📚 Estudante de Python ,Django Web Framework, Django Rest Framework E PÓS EM ENGENHARIA DE SOFTWARE <br>⚙  Engenheiro de produção, <br>🟢Green belt em lean Six Sigma, Lean Manufacturing, Scrum, Controle da qualidade, Segurança no trabalho <br>🖊Autocad profissional, Visual Basic, Ms Project<br>📩 E-mail para contato: lucasceo22@gmail.com<br>
 
@@ -45,12 +56,12 @@ Lucas Gomes
 
 
 
-## Autores
-
-- [@lucasgomes97](https://github.com/lucasgomes97)
-
-
 ## Suporte
 
 Para suporte, mande um email para lucasceo22@gmail.com ou entre em contato pelo Whatsapp:(79)98806-9425
+
+
+## Autores
+
+- [@lucasgomes97](https://github.com/lucasgomes97)
 
